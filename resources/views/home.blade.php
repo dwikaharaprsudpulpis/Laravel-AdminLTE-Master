@@ -1,3 +1,3 @@
 @extends('layouts.master')
 
-@section('title','WELLCOME)
+@section('title','WELLCOME')
